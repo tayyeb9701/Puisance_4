@@ -1,0 +1,102 @@
+body
+{
+    background-color: antiquewhite;
+}
+.puissance4-row 
+{
+    display: flex;
+}
+.puissance4-cell 
+{
+    width: 50px;
+    height: 50px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 50%;
+}
+.green 
+{
+    background-color: green;
+}
+.yellow 
+{
+    background-color: yellow;
+}
+.red 
+{
+    background-color: red;
+}
+.blue 
+{
+    background-color: blue;
+}
+.pink 
+{
+    background-color: pink;
+}
+.purple 
+{
+    background-color: purple;
+}
+#container
+{
+    background-color: blue;
+    border: solid 5px;
+    border-radius: 10px;
+}
+#cont
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#info1
+{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#info2
+{   
+    padding-bottom: 1%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#tour
+{   
+    padding-bottom: 1%;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: red;
+}
+#resultat
+{
+    margin-top: 4%;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#reset
+{
+    margin-top: 40%;
+    font-size: 20px;
+}
